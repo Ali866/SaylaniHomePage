@@ -1,0 +1,45 @@
+#content {
+    width: 90%;
+    margin-left: 5%;
+}
+
+h1 {
+    background-color: yellow;
+    font-size: 600%;
+}
+
+td {
+    text-align: center;
+}
+
+.Purple {
+    background-color: plum;
+}
+
+.blue {
+    background-color: skyblue;
+}
+
+.green {
+    background-color: lightgreen;
+}
+
+.brown {
+    background-color: sandybrown;
+}
+
+.orange {
+    background-color: coral;
+}
+
+.tan {
+    background-color: tan;
+}
+
+.grey {
+    background-color: lightgrey;
+}
+
+.white {
+    background-color: ghostwhite;
+}
